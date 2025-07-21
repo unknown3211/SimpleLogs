@@ -1,13 +1,5 @@
-#include <iostream>
 #include "spdlog/spdlog.h"
-
-enum logtype {
-    info,
-    error,
-    warn,
-    critical,
-    debug
-};
+#include "logs.h"
 
 void Log(logtype type, const char* msg)
 {
