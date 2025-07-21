@@ -1,5 +1,0 @@
-Add To Main Project CMAKE -> "${CMAKE_CURRENT_SOURCE_DIR}/libs/simplelogs/include" AT THIS LOCATION -> target_include_directories
-
-Or 
-
-Include Header And CPP File Into Your Own Projects
